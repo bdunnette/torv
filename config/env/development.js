@@ -6,8 +6,8 @@ module.exports = {
 		title: 'torv - Development Environment'
 	},
 	facebook: {
-		clientID: 'APP_ID',
-		clientSecret: 'APP_SECRET',
+		clientID: '241756916017052',
+		clientSecret: 'cdd5d6fa28ea0bc107070d7afe9110be',
 		callbackURL: 'http://localhost:3000/auth/facebook/callback'
 	},
 	twitter: {
